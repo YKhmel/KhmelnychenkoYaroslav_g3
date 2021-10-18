@@ -1,5 +1,6 @@
 package ui.pages;
 
+import libs.WebElements;
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
@@ -9,10 +10,12 @@ public class MainPage {
 
     WebDriver webDriver;
     Logger logger;
+    WebElements webElements;
 
     public MainPage(WebDriver webDriver){
         this.webDriver = webDriver;
         logger = Logger.getLogger(getClass());
+        webElements = new WebElements(webDriver);
         PageFactory.initElements(webDriver,this);
     }
 
