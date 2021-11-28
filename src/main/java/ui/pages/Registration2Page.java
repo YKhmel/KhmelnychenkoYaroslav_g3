@@ -149,9 +149,8 @@ public class Registration2Page extends MainPage{
         return this;
     }
 
-    public Registration2Page selectState (int index){
-        Select select = new Select(webDriver.findElement(By.xpath("//select[@id='id_state']")));
-        select.selectByIndex(index);
+    public Registration2Page selectState (String text){
+        webElements.selectTextInDropDownByText(stateSelect, text);
         return this;
     }
 
@@ -161,9 +160,8 @@ public class Registration2Page extends MainPage{
         return this;
     }
 
-    public Registration2Page selectCountry (int country){
-        Select select = new Select(webDriver.findElement(By.xpath("//select[@id='id_country']")));
-        select.selectByIndex(country);
+    public Registration2Page selectCountry (String text){
+        webElements.selectTextInDropDownByText(countrySelect, text);
         return this;
     }
 
