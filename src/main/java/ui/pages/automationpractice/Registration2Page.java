@@ -1,10 +1,10 @@
-package ui.pages;
+package ui.pages.automationpractice;
 
-import org.openqa.selenium.By;
+import io.qameta.allure.Step;
+import model.Account;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.ui.Select;
 
 public class Registration2Page extends MainPage{
 
@@ -12,14 +12,11 @@ public class Registration2Page extends MainPage{
         super(webDriver);
     }
 
-    @FindBy(xpath = "//a[@class='login']")
-    public WebElement signInLink;
+    @FindBy(xpath = "//div[@class='radio-inline'][1]")
+    public WebElement genderMr;
 
-    @FindBy(xpath = "//input[@id='email_create']")
-    public WebElement loginInput;
-
-    @FindBy(id = "SubmitCreate")
-    public WebElement submitButtonCreate;
+    @FindBy(xpath = "//div[@class='radio-inline'][2]")
+    public WebElement genderMrs;
 
     @FindBy(xpath = "//input[@id='customer_firstname']")
     public WebElement customerFirstName;
@@ -32,6 +29,15 @@ public class Registration2Page extends MainPage{
 
     @FindBy(xpath = "//input[@id='passwd']")
     public WebElement passwordInput;
+
+    @FindBy(id = "days")
+    public WebElement daysDropDown;
+
+    @FindBy(id = "months")
+    public WebElement monthsDropDown;
+
+    @FindBy(id = "years")
+    public WebElement yearsDropDown;
 
     @FindBy(xpath = "//input[@id='firstname']")
     public WebElement firstNameInput;
@@ -67,127 +73,157 @@ public class Registration2Page extends MainPage{
     public WebElement titleRegisteredAccount;
 
     @FindBy(xpath = "(//div[@class='alert alert-danger'])//li")
-    public WebElement errorMsg;
+    public static WebElement errorMsg;
 
-    /**
-     * Method open SignIn page
-     */
-    public Registration2Page clickSignIn(){
-        signInLink.click();
-        return this;
-    }
-    /**
-     * Method click to SignIn page
-     */
-    public Registration2Page openSignInPage(){
-        openUrl("http://automationpractice.com/index.php?controller=authentication&back=my-account");
+    @Step("Select gender {gender}")
+    public Registration2Page selectGender(String gender) {
+        if (gender.equals("Mr.")) {
+            webElements.clickRadioButton(genderMr, gender);
+        } else {
+            webElements.clickRadioButton(genderMrs, gender);
+        }
         return this;
     }
 
-    /**
-     * Method input email
-     *
-     * @param email
-     */
-
-    public Registration2Page inputEmailCreate(String email){
-        loginInput.clear();
-        loginInput.sendKeys(email);
-        return this;
-    }
-
-    public Registration2Page submitButtonCreate(){
-        submitButtonCreate.click();
-        return this;
-    }
-
+    @Step("Input customer first name {firstName}")
     public Registration2Page inputCustomerFirstName(String firstName){
         customerFirstName.clear();
         customerFirstName.sendKeys(firstName);
         return this;
     }
 
+    @Step("Input customer last name {lastName}")
     public Registration2Page inputCustomerLastName(String lastName){
         customerLastName.clear();
         customerLastName.sendKeys(lastName);
         return this;
     }
 
+    @Step("Input email {email}")
     public Registration2Page inputEmail (String email){
         emailInput.clear();
         emailInput.sendKeys(email);
         return this;
     }
 
+    @Step("Input password {password}")
     public Registration2Page inputPassword (String email){
         passwordInput.clear();
         passwordInput.sendKeys(email);
         return this;
     }
 
+    @Step("Select birthday {day}")
+    public Registration2Page selectBirthDay(String day){
+        webElements.selectTextInDropDownByText(daysDropDown, day);
+        return this;
+    }
+
+    @Step("Select birthday month {month}")
+    public Registration2Page selectBirthMonth(String month){
+        webElements.selectTextInDropDownByText(monthsDropDown, month);
+        return this;
+    }
+
+    @Step("Select birthday year {year}")
+    public Registration2Page selectBirthYear(String year){
+        webElements.selectTextInDropDownByText(yearsDropDown, year);
+        return this;
+    }
+
+    @Step("Input first name {firstName}")
     public Registration2Page inputFirstName (String firstName){
         firstNameInput.clear();
         firstNameInput.sendKeys(firstName);
         return this;
     }
 
+    @Step("Input last name {lastName}")
     public Registration2Page inputLastName (String lastName){
         lastNameInput.clear();
         lastNameInput.sendKeys(lastName);
         return this;
     }
 
+    @Step("Input address {address}")
     public Registration2Page inputAddress (String address){
         addressInput.clear();
         addressInput.sendKeys(address);
         return this;
     }
 
+    @Step("Input city {city}")
     public Registration2Page inputCity (String city){
         cityInput.clear();
         cityInput.sendKeys(city);
         return this;
     }
 
+    @Step("Select state {text}")
     public Registration2Page selectState (String text){
-        webElements.selectTextInDropDownByText(stateSelect, text);
+        webElements.selectValueInDropDown(stateSelect, text);
         return this;
     }
 
+    @Step("Input post code {postCode}")
     public Registration2Page inputPostcode (String postcode){
         postcodeInput.clear();
         postcodeInput.sendKeys(postcode);
         return this;
     }
 
+    @Step("Select country {text}")
     public Registration2Page selectCountry (String text){
         webElements.selectTextInDropDownByText(countrySelect, text);
         return this;
     }
 
+    @Step("Input mobile {phone}")
     public Registration2Page inputPhoneMobile (String phone){
         phoneMobileInput.clear();
         phoneMobileInput.sendKeys(phone);
         return this;
     }
 
+    @Step("Input alias {alias}")
     public Registration2Page inputAlias (String alias){
         aliasInput.clear();
         aliasInput.sendKeys(alias);
         return this;
     }
 
+    @Step("Submit account")
     public Registration2Page clickSubmitAccountButton (){
         submitAccount.click();
         return this;
     }
+
     public String checkTitle (){
         return titleRegisteredAccount.getText();
     }
 
-    public Registration2Page checkErrorMsg(String text) {
-        webElements.checkTextInElement(errorMsg, text);
-        return this;
+    public static String checkErrorMsg() {
+        return errorMsg.getText();
     }
 
+    public Registration2Page registrationNewUser(Account account) {
+        selectGender(account.getGender());
+        inputCustomerFirstName(account.getFirstCustomerName());
+        inputCustomerLastName(account.getLastCustomerName());
+        inputEmail(account.getEmail());
+        inputPassword(account.getPassword());
+        selectBirthDay(account.getDay());
+        selectBirthMonth(account.getMonth());
+        selectBirthYear(account.getYear());
+        inputFirstName(account.getFirstName());
+        inputLastName(account.getLastName());
+        inputAddress(account.getAddress1());
+        inputCity(account.getCity());
+        selectState(account.getState());
+        inputPostcode(account.getPostCode());
+        selectCountry(account.getCountry());
+        inputPhoneMobile(account.getPhoneMobile());
+        inputAlias(account.getAlias());
+        return this;
+    }
 }

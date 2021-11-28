@@ -1,0 +1,16 @@
+dataProviders\RegistrationPageDataProvider.class
+ui\pages\XYZBankPages\XYZBankCustomerPage.class
+ui\pages\XYZBankPages\XYZBankOpenAccountPage.class
+ui\pages\automationpractice\SignInPage.class
+ui\pages\XYZBankPages\XYZBankMainPage.class
+model\AccountBuilder.class
+libs\WebElements.class
+ui\pages\XYZBankPages\XYZBankCustomerProfilePage.class
+ui\pages\automationpractice\Registration2Page.class
+ui\pages\XYZBankPages\XYZBankBankManagerPage.class
+libs\Utils.class
+ui\pages\automationpractice\MainPage.class
+ui\pages\automationpractice\MyAccountPage.class
+ui\pages\automationpractice\RegistrationPage.class
+model\Account.class
+ui\pages\XYZBankPages\XYZBankAddCustomerPage.class

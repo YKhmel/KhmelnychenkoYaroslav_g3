@@ -1,14 +1,11 @@
 package libs;
 
 import org.apache.log4j.Logger;
-import org.junit.Assert;
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
-
-import static org.hamcrest.CoreMatchers.is;
+import org.testng.Assert;
 
 public class WebElements {
 
@@ -49,6 +46,20 @@ public class WebElements {
         }
     }
 
+    public void clickRadioButton(WebElement element, String text) {
+        try {
+            boolean status = element.isSelected();
+            if (status) {
+                logger.info("Checkbox is initially checked");
+            } else {
+                element.click();
+                logger.info("Element was clicked " + element);
+            }
+        } catch (Exception e) {
+            logger.error("Can't work with element " + element);
+        }
+    }
+
     public boolean isElementPresent(String text){
         try {
             return webDriver.findElement(By.xpath(text)).isDisplayed();
@@ -60,10 +71,20 @@ public class WebElements {
     public void selectTextInDropDownByText(WebElement element, String text){
         try {
             Select optionsFromDropDownByText = new Select(element);
-            optionsFromDropDownByText.selectByVisibleText(text);
+            optionsFromDropDownByText.selectByValue(text);
             logger.info("Was selected is DropDown y text: " + text);
         } catch (Exception e){
             logger.error("Cant work with element: " + element);
+        }
+    }
+
+    public void selectValueInDropDown(WebElement element, String value) {
+        try {
+            Select optionsFromDropDown = new Select(element);
+            optionsFromDropDown.selectByVisibleText(value);
+            logger.info("was selected by values " + value);
+        } catch (Exception e) {
+            logger.error("Can't work with DropDown " + element);
         }
     }
 
@@ -75,49 +96,11 @@ public class WebElements {
         }
     }
 
-    public void checkTitle(String exTitle){
-        try {
-            Assert.assertThat("Title not matched", webDriver.getTitle(),is(exTitle));
-        }catch (Exception e){
-            logger.error("Can't find title " + exTitle);
-            Assert.fail("Can't find title " + exTitle);
-        }
-    }
-
-    public void checkTitleInElement(String xpath, String text){
-        try {
-            String texFromElement = webDriver.findElement(By.xpath(xpath)).getText();
-            Assert.assertThat("Text in element not matched", texFromElement,is(text));
-        }catch (Exception e){
-            logger.error("Can't check text in element " + text);
-            Assert.fail("Can't check text in element " + text);
-        }
-    }
-
-    public void checkTextInElement(WebElement element, String text){
-        try {
-            String texFromElement = element.getText();
-            Assert.assertThat("Text in element not matched", texFromElement,is(text));
-        }catch (Exception e){
-            logger.error("Can't check text in element " + text);
-            Assert.fail("Can't check text in element " + text);
-        }
-    }
-    public void checkTextInAlert(Alert alert, String exText){
-        try {
-            String texFromAlert = alert.getText();
-            Assert.assertThat("Text in element not matched", texFromAlert,is(exText));
-        }catch (Exception e){
-            logger.error("Can't check text in alert");
-            Assert.fail("Can't check text in alert");
-        }
-    }
-
     public void acceptAlert() {
         webDriver.switchTo().alert().accept();
     }
 
-    public void checkAC(String message, boolean actualRes, boolean expectedRes){
-        Assert.assertThat(message, actualRes, is(expectedRes));
+    public void checkAC(boolean actualRes, boolean expectedRes){
+        Assert.assertEquals(actualRes, expectedRes);
     }
 }

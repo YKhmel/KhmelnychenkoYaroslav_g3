@@ -1,11 +1,14 @@
 package homework_4;
 
 import org.apache.log4j.Logger;
-import org.junit.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import ui.pages.MainPage;
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+import ui.pages.automationpractice.MainPage;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
@@ -16,7 +19,7 @@ public class Homework4Tests {
 
     public MainPage mainPage;
 
-    @Before
+    @BeforeClass
     public void setUp(){
         logger = Logger.getLogger(getClass());
         File fileChromeDriver = new File("C:\\WORK\\ChromeDriver\\chromedriver.exe");
@@ -30,7 +33,7 @@ public class Homework4Tests {
         mainPage.openUrl("https://finance.i.ua/converter/");
     }
 
-    @After
+    @AfterClass
     public void tyrDown(){
         webDriver.quit();
     }

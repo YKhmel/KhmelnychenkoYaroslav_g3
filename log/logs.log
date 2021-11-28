@@ -330,3 +330,683 @@
 %{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
 %{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
 %{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:43  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:47  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Registration2Page:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [RegistrationPage:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (8b0793575aed64cc6a666e7c94e7896c)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (8b0793575aed64cc6a666e7c94e7896c)] -> xpath: //input[@id='alias']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Registration2Page:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: United States
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Registration2Page:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:63  ] : Cant work with element: Proxy element for: DefaultElementLocator 'By.xpath: //select[@name='userSelect']'
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:52  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:56  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:52  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:56  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:49  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:49  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:43  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:43  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:47  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:47  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:43  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:53  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:47  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:53  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:43  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:49  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:49  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:47  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:53  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:53  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:63  ] : Cant work with element: Proxy element for: DefaultElementLocator 'By.xpath: //select[@name='userSelect']'
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:52  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:46  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:50  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:56  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:61  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> xpath: //input[@id='alias']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (270d99fbca37fd4cdb6222bac3941d93)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: United States
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:44  ] : Can't work with element Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='login']'
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:44  ] : Can't work with element Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='login']'
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (d2dc51bf4328a41e240ea1a9d870115f)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (d2dc51bf4328a41e240ea1a9d870115f)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (d2dc51bf4328a41e240ea1a9d870115f)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (d2dc51bf4328a41e240ea1a9d870115f)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (d2dc51bf4328a41e240ea1a9d870115f)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (d2dc51bf4328a41e240ea1a9d870115f)] -> xpath: //input[@id='alias']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (f52aa63ff78737ab18876b9c2a3762cf)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (f52aa63ff78737ab18876b9c2a3762cf)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (fbecc762bcbcfed15238657625308191)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (fbecc762bcbcfed15238657625308191)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (4434b165fc7b9b8ad62a7c35c1e4de19)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (4434b165fc7b9b8ad62a7c35c1e4de19)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (4434b165fc7b9b8ad62a7c35c1e4de19)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (4434b165fc7b9b8ad62a7c35c1e4de19)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (4434b165fc7b9b8ad62a7c35c1e4de19)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: United States
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (8b2077a28e855938d5547326034226f1)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (8b2077a28e855938d5547326034226f1)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (8b2077a28e855938d5547326034226f1)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (433ae0ff28f015799e464c715974b109)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (433ae0ff28f015799e464c715974b109)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (433ae0ff28f015799e464c715974b109)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (433ae0ff28f015799e464c715974b109)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (433ae0ff28f015799e464c715974b109)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (433ae0ff28f015799e464c715974b109)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (37e841f21525a3810f8fb5e8c6dcd833)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (37e841f21525a3810f8fb5e8c6dcd833)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (37e841f21525a3810f8fb5e8c6dcd833)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (37e841f21525a3810f8fb5e8c6dcd833)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (37e841f21525a3810f8fb5e8c6dcd833)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: United States
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (f0adba4777e23bb7cbac131f96f5d4b9)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (f0adba4777e23bb7cbac131f96f5d4b9)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (f0adba4777e23bb7cbac131f96f5d4b9)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (f0adba4777e23bb7cbac131f96f5d4b9)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (f0adba4777e23bb7cbac131f96f5d4b9)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (f0adba4777e23bb7cbac131f96f5d4b9)] -> xpath: //input[@id='alias']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (6d6dc1951fe66b64cfc5e99873e33892)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (6d6dc1951fe66b64cfc5e99873e33892)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (6d6dc1951fe66b64cfc5e99873e33892)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (6d6dc1951fe66b64cfc5e99873e33892)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (6d6dc1951fe66b64cfc5e99873e33892)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (6d6dc1951fe66b64cfc5e99873e33892)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (6d6dc1951fe66b64cfc5e99873e33892)] -> xpath: //input[@id='alias']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (ac91a0445aa7ec0ecf0e43d4f477dd0f)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (ac91a0445aa7ec0ecf0e43d4f477dd0f)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (ac91a0445aa7ec0ecf0e43d4f477dd0f)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (ac91a0445aa7ec0ecf0e43d4f477dd0f)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (ac91a0445aa7ec0ecf0e43d4f477dd0f)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (ac91a0445aa7ec0ecf0e43d4f477dd0f)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (ac91a0445aa7ec0ecf0e43d4f477dd0f)] -> xpath: //input[@id='alias']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (5670ebdf1180367b256f79d1fc7a0141)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (5670ebdf1180367b256f79d1fc7a0141)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (5670ebdf1180367b256f79d1fc7a0141)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (5670ebdf1180367b256f79d1fc7a0141)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (5670ebdf1180367b256f79d1fc7a0141)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: United States
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (bfed3e269ddea7c938e967c8654fc6ad)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (bfed3e269ddea7c938e967c8654fc6ad)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (bfed3e269ddea7c938e967c8654fc6ad)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (bfed3e269ddea7c938e967c8654fc6ad)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (bfed3e269ddea7c938e967c8654fc6ad)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (bfed3e269ddea7c938e967c8654fc6ad)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (bfddfbc568cb1ce30ad2d14b72045ec3)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (bfddfbc568cb1ce30ad2d14b72045ec3)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (bfddfbc568cb1ce30ad2d14b72045ec3)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (bfddfbc568cb1ce30ad2d14b72045ec3)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (bfddfbc568cb1ce30ad2d14b72045ec3)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (bfddfbc568cb1ce30ad2d14b72045ec3)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (ec99d8ba50d8b02c8e9dff3586330913)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (ec99d8ba50d8b02c8e9dff3586330913)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (ec99d8ba50d8b02c8e9dff3586330913)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (ec99d8ba50d8b02c8e9dff3586330913)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (ec99d8ba50d8b02c8e9dff3586330913)] -> id: years]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: United States
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (7b3d4c5f9e6488e4de69ce461df020b3)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (7b3d4c5f9e6488e4de69ce461df020b3)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (7b3d4c5f9e6488e4de69ce461df020b3)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (7b3d4c5f9e6488e4de69ce461df020b3)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (15f1ecb6860bd5f3317eb5a229ac3af7)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (15f1ecb6860bd5f3317eb5a229ac3af7)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:53  ] : Checkbox is initially checked
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (15f1ecb6860bd5f3317eb5a229ac3af7)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (15f1ecb6860bd5f3317eb5a229ac3af7)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (7619e6ff2b09934fa5cec9dd76b4a0c2)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (7619e6ff2b09934fa5cec9dd76b4a0c2)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (7619e6ff2b09934fa5cec9dd76b4a0c2)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (7619e6ff2b09934fa5cec9dd76b4a0c2)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (7619e6ff2b09934fa5cec9dd76b4a0c2)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (00565661009a0245bb17609a607fc6da)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (00565661009a0245bb17609a607fc6da)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (00565661009a0245bb17609a607fc6da)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (00565661009a0245bb17609a607fc6da)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (00565661009a0245bb17609a607fc6da)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (00565661009a0245bb17609a607fc6da)] -> xpath: //input[@id='alias']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (2ec7109eec7eaf8bf02716e2de6bae98)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (2ec7109eec7eaf8bf02716e2de6bae98)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (2ec7109eec7eaf8bf02716e2de6bae98)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (2ec7109eec7eaf8bf02716e2de6bae98)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (2ec7109eec7eaf8bf02716e2de6bae98)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (2ec7109eec7eaf8bf02716e2de6bae98)] -> xpath: //button[@id='submitAccount']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (ca746e464fb22e5854a34f366c16e596)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (ca746e464fb22e5854a34f366c16e596)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (ca746e464fb22e5854a34f366c16e596)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (ca746e464fb22e5854a34f366c16e596)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (ca746e464fb22e5854a34f366c16e596)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (ca746e464fb22e5854a34f366c16e596)] -> xpath: //button[@id='submitAccount']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (e5c340c6da24a029e98ae93ae6a2f8ae)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (e5c340c6da24a029e98ae93ae6a2f8ae)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (e5c340c6da24a029e98ae93ae6a2f8ae)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (e5c340c6da24a029e98ae93ae6a2f8ae)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (e5c340c6da24a029e98ae93ae6a2f8ae)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (e5c340c6da24a029e98ae93ae6a2f8ae)] -> xpath: //button[@id='submitAccount']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (51f578f9ae9c0899ced280855e5057c3)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (51f578f9ae9c0899ced280855e5057c3)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (219f8f98e5b20875be6e8fb7c1588a8e)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (219f8f98e5b20875be6e8fb7c1588a8e)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (219f8f98e5b20875be6e8fb7c1588a8e)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (219f8f98e5b20875be6e8fb7c1588a8e)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (219f8f98e5b20875be6e8fb7c1588a8e)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (219f8f98e5b20875be6e8fb7c1588a8e)] -> xpath: //button[@id='submitAccount']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (510cdf31a174026033aff35753b26be3)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (510cdf31a174026033aff35753b26be3)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (510cdf31a174026033aff35753b26be3)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (510cdf31a174026033aff35753b26be3)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (510cdf31a174026033aff35753b26be3)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (510cdf31a174026033aff35753b26be3)] -> xpath: //button[@id='submitAccount']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (16f72de36cd9cbbac030c64a2c4da0ae)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (16f72de36cd9cbbac030c64a2c4da0ae)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (16f72de36cd9cbbac030c64a2c4da0ae)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (16f72de36cd9cbbac030c64a2c4da0ae)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (01225f62a84391c1e7406a5a73700339)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (01225f62a84391c1e7406a5a73700339)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (01225f62a84391c1e7406a5a73700339)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (01225f62a84391c1e7406a5a73700339)] -> xpath: //select[@id='id_state']]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (01225f62a84391c1e7406a5a73700339)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (01225f62a84391c1e7406a5a73700339)] -> xpath: //button[@id='submitAccount']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (24500e60175a1af60c3076a5a0c8d5a5)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (24500e60175a1af60c3076a5a0c8d5a5)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (24500e60175a1af60c3076a5a0c8d5a5)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Alabama
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (24500e60175a1af60c3076a5a0c8d5a5)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='submitAccount']'
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (193c427dab23827185bf241e8fd49f13)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (193c427dab23827185bf241e8fd49f13)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (193c427dab23827185bf241e8fd49f13)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Alabama
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (193c427dab23827185bf241e8fd49f13)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='submitAccount']'
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (98315ac4d32f234c74b8492abe18a22b)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (98315ac4d32f234c74b8492abe18a22b)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (98315ac4d32f234c74b8492abe18a22b)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Alabama
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (98315ac4d32f234c74b8492abe18a22b)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (f16ba6d7985e9d3fc6d11c57636d1a48)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (f16ba6d7985e9d3fc6d11c57636d1a48)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (b99a952f08412cafab3e22f73a0763ff)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (b99a952f08412cafab3e22f73a0763ff)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (b99a952f08412cafab3e22f73a0763ff)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (b99a952f08412cafab3e22f73a0763ff)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (b99a952f08412cafab3e22f73a0763ff)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (af276c6f97f1d2760d6cbbc5de0749d3)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (af276c6f97f1d2760d6cbbc5de0749d3)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (af276c6f97f1d2760d6cbbc5de0749d3)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (af276c6f97f1d2760d6cbbc5de0749d3)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (af276c6f97f1d2760d6cbbc5de0749d3)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (f5805ce0d2a4e665068d55bcd2a367d7)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (f5805ce0d2a4e665068d55bcd2a367d7)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (f5805ce0d2a4e665068d55bcd2a367d7)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (f5805ce0d2a4e665068d55bcd2a367d7)] -> id: months]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (f5805ce0d2a4e665068d55bcd2a367d7)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (17f514935aa2e92cdc49cd872902128b)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (17f514935aa2e92cdc49cd872902128b)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (b2e91db70666c6976901d2570c6555c2)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (b2e91db70666c6976901d2570c6555c2)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (b2e91db70666c6976901d2570c6555c2)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (b2e91db70666c6976901d2570c6555c2)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Alabama
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (b2e91db70666c6976901d2570c6555c2)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (e323d660c824daa69d712476e3b89ee3)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (e323d660c824daa69d712476e3b89ee3)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (e323d660c824daa69d712476e3b89ee3)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (e323d660c824daa69d712476e3b89ee3)] -> id: days]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (e323d660c824daa69d712476e3b89ee3)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (1e47bed35a2f89088fd854c290327b74)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (1e47bed35a2f89088fd854c290327b74)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (1e47bed35a2f89088fd854c290327b74)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Alabama
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (1e47bed35a2f89088fd854c290327b74)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (cad4c661f252aa35094804e3694d053f)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (cad4c661f252aa35094804e3694d053f)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (cad4c661f252aa35094804e3694d053f)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Alabama
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (cad4c661f252aa35094804e3694d053f)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='submitAccount']'
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (71f1e1c80b64f9aaee06ac7a6d226f17)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (71f1e1c80b64f9aaee06ac7a6d226f17)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (71f1e1c80b64f9aaee06ac7a6d226f17)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Alabama
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (71f1e1c80b64f9aaee06ac7a6d226f17)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (3cc9b8fd5813c7cb020a7d7aaa7ef6f5)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (3cc9b8fd5813c7cb020a7d7aaa7ef6f5)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (c1d5b56f09fd5fdec6efab65fb899715)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (c1d5b56f09fd5fdec6efab65fb899715)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (c1d5b56f09fd5fdec6efab65fb899715)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (c1d5b56f09fd5fdec6efab65fb899715)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:54  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:48  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:52  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:32  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:58  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (3d45242f8e995bf5ac652f651775f7e5)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (3d45242f8e995bf5ac652f651775f7e5)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (3d45242f8e995bf5ac652f651775f7e5)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:32  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[FirefoxDriver: firefox on WINDOWS (410f62a0-2e5c-46e5-8afc-c1e2ec71d9a3)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[FirefoxDriver: firefox on WINDOWS (410f62a0-2e5c-46e5-8afc-c1e2ec71d9a3)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (3d45242f8e995bf5ac652f651775f7e5)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[FirefoxDriver: firefox on WINDOWS (410f62a0-2e5c-46e5-8afc-c1e2ec71d9a3)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[FirefoxDriver: firefox on WINDOWS (410f62a0-2e5c-46e5-8afc-c1e2ec71d9a3)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:57  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:61  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:32  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (00a7b1eeb53a81d7e1d381a342e71cc0)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:32  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (00a7b1eeb53a81d7e1d381a342e71cc0)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (00a7b1eeb53a81d7e1d381a342e71cc0)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[FirefoxDriver: firefox on WINDOWS (1604ec45-63d9-4d65-8c5f-575510267b99)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[FirefoxDriver: firefox on WINDOWS (1604ec45-63d9-4d65-8c5f-575510267b99)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (00a7b1eeb53a81d7e1d381a342e71cc0)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[FirefoxDriver: firefox on WINDOWS (1604ec45-63d9-4d65-8c5f-575510267b99)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[FirefoxDriver: firefox on WINDOWS (1604ec45-63d9-4d65-8c5f-575510267b99)] -> xpath: //select[@id='id_country']]

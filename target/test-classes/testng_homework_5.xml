@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Homework6Tests" parallel="tests" thread-count="2">
+
+    <test name="ChromeTest" verbose="1" parallel="true" thread-count="1">
+        <parameter name="browserName" value="chrome">
+            <classes>
+                <class name="homework_5.Homework5Tests"/>
+            </classes>
+        </parameter>
+    </test>
+
+    <test name="FirefoxTest" verbose="1" parallel="true" thread-count="1">
+        <parameter name="browserName" value="firefox">
+            <classes>
+                <class name="homework_5.Homework5Tests"/>
+            </classes>
+        </parameter>
+    </test>
+
+</suite>

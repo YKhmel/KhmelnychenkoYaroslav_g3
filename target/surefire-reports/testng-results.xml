@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Homework6Tests" duration-ms="38903" started-at="2021-11-28T20:43:50Z" finished-at="2021-11-28T20:44:29Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="34286" started-at="2021-11-28T20:43:50Z" finished-at="2021-11-28T20:44:24Z">
+      <class name="homework_5.Homework5Tests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:homework_5.Homework5Tests@26d5a317]" name="setUp" is-config="true" duration-ms="4923" started-at="2021-11-28T20:43:50Z" finished-at="2021-11-28T20:43:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCreateNewAccount(model.Account)[pri:0, instance:homework_5.Homework5Tests@26d5a317]" name="testCreateNewAccount" duration-ms="28186" started-at="2021-11-28T20:43:55Z" data-provider="registrationNewUser" finished-at="2021-11-28T20:44:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[model.Account@37b70ee8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateNewAccount -->
+        <test-method status="PASS" signature="tyrDown()[pri:0, instance:homework_5.Homework5Tests@26d5a317]" name="tyrDown" is-config="true" duration-ms="870" started-at="2021-11-28T20:44:23Z" finished-at="2021-11-28T20:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tyrDown -->
+      </class> <!-- homework_5.Homework5Tests -->
+    </test> <!-- ChromeTest -->
+    <test name="FirefoxTest" duration-ms="38903" started-at="2021-11-28T20:43:50Z" finished-at="2021-11-28T20:44:29Z">
+      <class name="homework_5.Homework5Tests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:homework_5.Homework5Tests@3a7d914c]" name="setUp" is-config="true" duration-ms="9025" started-at="2021-11-28T20:43:50Z" finished-at="2021-11-28T20:43:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCreateNewAccount(model.Account)[pri:0, instance:homework_5.Homework5Tests@3a7d914c]" name="testCreateNewAccount" duration-ms="28646" started-at="2021-11-28T20:43:59Z" data-provider="registrationNewUser" finished-at="2021-11-28T20:44:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[model.Account@30bb084b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateNewAccount -->
+        <test-method status="PASS" signature="tyrDown()[pri:0, instance:homework_5.Homework5Tests@3a7d914c]" name="tyrDown" is-config="true" duration-ms="1142" started-at="2021-11-28T20:44:27Z" finished-at="2021-11-28T20:44:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tyrDown -->
+      </class> <!-- homework_5.Homework5Tests -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Homework6Tests -->
+</testng-results>
