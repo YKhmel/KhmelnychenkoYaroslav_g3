@@ -2,9 +2,11 @@ package libs;
 
 import org.apache.log4j.Logger;
 import org.junit.Assert;
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 
 import static org.hamcrest.CoreMatchers.is;
 
@@ -55,6 +57,16 @@ public class WebElements {
         }
     }
 
+    public void selectTextInDropDownByText(WebElement element, String text){
+        try {
+            Select optionsFromDropDownByText = new Select(element);
+            optionsFromDropDownByText.selectByVisibleText(text);
+            logger.info("Was selected is DropDown y text: " + text);
+        } catch (Exception e){
+            logger.error("Cant work with element: " + element);
+        }
+    }
+
     public boolean isElementPresent(WebElement element){
         try {
             return element.isDisplayed();
@@ -90,6 +102,19 @@ public class WebElements {
             logger.error("Can't check text in element " + text);
             Assert.fail("Can't check text in element " + text);
         }
+    }
+    public void checkTextInAlert(Alert alert, String exText){
+        try {
+            String texFromAlert = alert.getText();
+            Assert.assertThat("Text in element not matched", texFromAlert,is(exText));
+        }catch (Exception e){
+            logger.error("Can't check text in alert");
+            Assert.fail("Can't check text in alert");
+        }
+    }
+
+    public void acceptAlert() {
+        webDriver.switchTo().alert().accept();
     }
 
     public void checkAC(String message, boolean actualRes, boolean expectedRes){

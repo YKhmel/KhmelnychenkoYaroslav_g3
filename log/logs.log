@@ -126,3 +126,207 @@
 %{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:33  ] : Browser was opened
 %{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
 %{yyyy-dd-MM HH:mm:ss}  INFO [Registration2Page:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:43  ] : nullwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:47  ] : nullis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Registration2Page:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:63  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:63  ] : Was selected is DropDown y text: United States
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:57  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:61  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Registration2Page:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:63  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:57  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:61  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Registration2Page:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:63  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:63  ] : Was selected is DropDown y text: United States
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:63  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:57  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:61  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Registration2Page:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:63  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:63  ] : Was selected is DropDown y text: United States
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:63  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:57  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:61  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Registration2Page:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:63  ] : Was selected is DropDown y text: New York
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:63  ] : Was selected is DropDown y text: United States
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:63  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:67  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:30  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Registration2Page:30  ] : Page was open http://automationpractice.com/index.php?controller=authentication&back=my-account
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:56  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:60  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [DemoWebShopMainPage:31  ] : Page was open http://demowebshop.tricentis.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [DemoWebShopMainPage:31  ] : Page was open http://demowebshop.tricentis.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:67  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:71  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:67  ] : firefoxwill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:71  ] : firefoxis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:66  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (1664274e5842826a6d2bdd6570d14455)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:66  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (e38bea9d9436346c0bf00bf90e269b8f)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:66  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (6cb2f8e000154de908f49aff113a2f2a)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:66  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (0eeb53bf28070bbfa9d4893a2c83a433)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:61  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:65  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:66  ] : Cant work with element: Proxy element for: DefaultElementLocator 'By.xpath: //select[@name='userSelect']'
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:62  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:66  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:64  ] : Was selected is DropDown y text: Hermoine Granger
