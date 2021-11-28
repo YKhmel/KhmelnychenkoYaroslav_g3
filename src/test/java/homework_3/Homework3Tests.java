@@ -1,12 +1,12 @@
 package homework_3;
 
-import org.junit.After;
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
@@ -15,7 +15,7 @@ public class Homework3Tests {
 
     WebDriver webDriver;
 
-    @Before
+    @BeforeClass
     public void setUp(){
         File fileChromeDriver = new File("C:\\WORK\\ChromeDriver\\chromedriver.exe");
         System.setProperty("webdriver.chrome.driver", fileChromeDriver.getAbsolutePath());
@@ -25,7 +25,7 @@ public class Homework3Tests {
         webDriver.get("https://ru.wikipedia.org");
     }
 
-    @After
+    @AfterClass
     public void tyrDown(){
         webDriver.quit();
     }

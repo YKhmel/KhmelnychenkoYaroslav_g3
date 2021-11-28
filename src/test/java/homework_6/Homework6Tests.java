@@ -1,14 +1,10 @@
 package homework_6;
 
 import baseTest.BaseTest;
-import org.junit.Assert;
-import org.junit.Test;
+import org.testng.Assert;
+import org.testng.annotations.Test;
 
 public class Homework6Tests extends BaseTest {
-
-    public Homework6Tests(String browser) {
-        super(browser);
-    }
 
     private final String FIRST_NAME = "Yaroslav";
     private final String LAST_NAME = "Khmelnychenko";
@@ -23,8 +19,8 @@ public class Homework6Tests extends BaseTest {
 
     @Test
     public void loginCustomerWithoutAccountTest() {
-        XYZBankAddCustomerPage.createNewCustomer(FIRST_NAME, LAST_NAME, POST_CODE);
-        Assert.assertEquals("Customer added successfully with customer id :6", XYZBankAddCustomerPage.textFromAlert);
+        XYZBankAddCustomerPage.createNewCustomer(FIRST_NAME + 1, LAST_NAME, POST_CODE);
+        Assert.assertEquals("Customer added successfully with customer id :7", XYZBankAddCustomerPage.textFromAlert);
         XYZBankMainPage.loginAsCustomer();
         XYZBankCustomerPage.loginAsCustomerUser(FIRST_NAME + " " + LAST_NAME);
         Assert.assertEquals("Please open an account with us.",XYZBankCustomerProfilePage.checkNoAccountMessage());
