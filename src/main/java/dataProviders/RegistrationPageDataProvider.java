@@ -13,7 +13,7 @@ public class RegistrationPageDataProvider {
         return new Object[][]{
                 {
                         new AccountBuilder()
-                                .withGender("Mr.")
+                                .withGender("1")
                                 .withFirstCustomerName("Yaroslav")
                                 .withLastCustomerName("Khmelnychenko")
                                 .withEmail(faker.internet().emailAddress())
@@ -29,6 +29,7 @@ public class RegistrationPageDataProvider {
                                 .withCity("New York")
                                 .withState("New York")
                                 .withPostalCode("12345")
+                                .withCountry("United States")
                                 .withPhoneMobile("1234567890")
                                 .withAlias("Hello!")
                                 .build()

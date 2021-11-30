@@ -1010,3 +1010,88 @@
 %{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
 %{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
 %{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[FirefoxDriver: firefox on WINDOWS (1604ec45-63d9-4d65-8c5f-575510267b99)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (1110e0d85af72ec8733325f12512b021)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (1110e0d85af72ec8733325f12512b021)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (1110e0d85af72ec8733325f12512b021)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework5Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [  MainPage:32  ] : Page was open http://automationpractice.com/
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (2fa0c06163c6f20a8a614d73c8e1ac88)] -> xpath: //a[@class='login']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:42  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (2fa0c06163c6f20a8a614d73c8e1ac88)] -> id: SubmitCreate]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:56  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (2fa0c06163c6f20a8a614d73c8e1ac88)] -> xpath: //div[@class='radio-inline'][1]]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 5
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 10
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: 1989
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values New York
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (2fa0c06163c6f20a8a614d73c8e1ac88)] -> xpath: //select[@id='id_country']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (77aa2a71a9443f6d718bd909f2ce0174)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (1cdeeb8f8d6c05fe285f4fdc7a7ee307)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (dadaeac031cb758911f58d3b01434eb5)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (dadaeac031cb758911f58d3b01434eb5)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (dadaeac031cb758911f58d3b01434eb5)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (f4133a9fd9f493d7c89a68a5656f66e6)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Yaroslav1 Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss} ERROR [WebElements:77  ] : Cant work with element: [[ChromeDriver: chrome on WINDOWS (219f5ae09f999cab61cf02db9f7ccef9)] -> xpath: //select[@name='userSelect']]
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:75  ] : Was selected is DropDown y text: Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:51  ] : chromewill be started
+%{yyyy-dd-MM HH:mm:ss}  INFO [Homework6Tests:55  ] : chromeis started
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Yaroslav1 Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankAddCustomerPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Yaroslav Khmelnychenko
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Dollar
+%{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+%{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Hermoine Granger
