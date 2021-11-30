@@ -1,3 +1,7 @@
 .idea
-.target/
+target/*
 .resourses/
+build/*
+*log.
+*.jar
+.allure
