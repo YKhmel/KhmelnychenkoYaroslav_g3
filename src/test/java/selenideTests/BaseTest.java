@@ -25,12 +25,14 @@ public class BaseTest {
 
     public Faker faker = new Faker();
 
-    private final String baseUrl_1 = "http://automationpractice.com";
+    private final String baseUrl = "http://automationpractice.com";
 
     public SignInPage signInPage = new SignInPage();
     public RegistrationPage registrationPage = new RegistrationPage();
     public MyAccountPage myAccountPage = new MyAccountPage();
     public MainPage mainPage = new MainPage();
+    public ProductPage productPage = new ProductPage();
+    public CartPage cartPage = new CartPage();
 
     public void setUpBrowser(){
         ChromeOptions options = new ChromeOptions();
@@ -51,7 +53,7 @@ public class BaseTest {
                 WebDriverManager.chromedriver().browserVersion("96").setup();
                 Configuration.browser = "chrome";
                 Configuration.timeout = 10000;
-                Configuration.baseUrl = baseUrl_1;
+                Configuration.baseUrl = baseUrl;
                 Configuration.screenshots = true;
                 Configuration.savePageSource = true;
                 Configuration.reopenBrowserOnFail = true;
@@ -59,7 +61,7 @@ public class BaseTest {
                 Selenide.open(Configuration.baseUrl);
                 break;
             case ("remote"):
-                Configuration.remote = baseUrl_1;
+                Configuration.remote = baseUrl;
                 Configuration.browserSize = "1920x1080";
                 DesiredCapabilities capabilities = new DesiredCapabilities();
                 capabilities.setCapability("browserName", "chrome");
@@ -69,7 +71,7 @@ public class BaseTest {
                 capabilities.setCapability("enableVideo", true);
                 capabilities.setCapability("enableLog", true);
                 Configuration.browserCapabilities = capabilities;
-                Selenide.open(baseUrl_1);
+                Selenide.open(baseUrl);
                 break;
         }
     }

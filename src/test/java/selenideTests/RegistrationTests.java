@@ -36,9 +36,16 @@ public class RegistrationTests extends BaseTest{
                 userAccount.getFirstCustomerName() + " " + userAccount.getLastCustomerName());
     }
 
-    @Test
-    public void findProductTest(){
+    @Test(dependsOnMethods = "selenideTests.RegistrationTests.createNewAccountTest")
+    public void correctTotalInCartTest(){
+        String totalPrice;
+
         Selenide.open(Configuration.baseUrl);
-        mainPage.getProduct("Blouse").clickProduct("Blouse");
+        mainPage.clickProduct("Blouse");
+        productPage.addProductToCart();
+        productPage.clickAddToWishlist()
+                .clickCartButton();
+        totalPrice = cartPage.getTotalPrice();
+        Assert.assertEquals("$29.00",totalPrice);
     }
 }
