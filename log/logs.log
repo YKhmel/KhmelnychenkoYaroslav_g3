@@ -1095,3 +1095,16 @@
 %{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Dollar
 %{yyyy-dd-MM HH:mm:ss}  INFO [XYZBankMainPage:42  ] : Page was open https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
 %{yyyy-dd-MM HH:mm:ss}  INFO [WebElements:85  ] : was selected by values Hermoine Granger
+%{yyyy-dd-MM HH:mm:ss}  INFO [SwapDevTests:26  ] : 
+Luke Skywalker
+https://swapi.dev/api/planets/1/
+%{yyyy-dd-MM HH:mm:ss}  INFO [SwapDevTests:43  ] : 
+Tatooine
+200000
+https://swapi.dev/api/films/1/
+https://swapi.dev/api/people/2/
+%{yyyy-dd-MM HH:mm:ss}  INFO [SwapDevTests:44  ] : 
+Tatooine
+200000
+https://swapi.dev/api/films/1/
+https://swapi.dev/api/people/1/
